@@ -1,0 +1,32 @@
+POST http://localhost:3000/
+Content-Type: application/json
+
+{
+    "documents": [
+       {
+           "book": "Introduction to Algorithms",
+           "issuer": "Satya Patra",
+           "date": "01-12-2021"
+       },
+       {
+           "book": "Introduction to DBMS",
+           "issuer": "Satya Patra",
+           "date": "01-12-2021"
+       },
+       {
+           "book": "Introduction to Networking",
+           "issuer": "Aswin V",
+           "date": "10-12-2021"
+       },
+       {
+           "book": "Introduction to C++",
+           "issuer": "Varun Arora",
+           "date": "01-12-2021"
+       },
+       {
+           "book": "Introduction to Java",
+           "issuer": "Saran Agarwal",
+           "date": "01-12-2021"
+       }
+    ]
+}

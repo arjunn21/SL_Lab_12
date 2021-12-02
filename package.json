@@ -1,0 +1,24 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "SL Lab 12",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arjunn21/SL_Lab_12.git"
+  },
+  "author": "Satya Patra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arjunn21/SL_Lab_12/issues"
+  },
+  "homepage": "https://github.com/arjunn21/SL_Lab_12#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.14",
+    "nodemon": "^2.0.15"
+  }
+}
